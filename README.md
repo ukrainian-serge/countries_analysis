@@ -1,8 +1,8 @@
 ## An exploration of UN data (Gross Domestic Product and other variables)
 
-- Jupyter notebook: `country_gdp_and_other_variables.ipynb` contains analysis of variables that pertain to countries' gdp, internet use, etc.
+- `country_gdp_and_other_variables.ipynb` Jupyter notebook: analysis of variables that pertain to countries' gdp, internet use, etc.
 
-- PowerBI Desktop" `clean_energy_production_countries.pbix` contains analysis of clean energy producing countries
+- `clean_energy_production_countries.pbix` PowerBI Desktop: analysis of clean energy producing countries
 
 
 #### Data Sources  
