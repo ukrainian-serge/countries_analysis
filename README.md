@@ -1,7 +1,7 @@
 ## An exploration of UN data (Gross Domestic Product and other variables)
 
 <p align="center">
-    <img src="countries.jpg" alt="logo" width="300" height="300"/>
+    <img src="countries.jpg" alt="logo" width="400" height="200"/>
 </p>
 
 
