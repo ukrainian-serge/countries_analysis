@@ -1,5 +1,10 @@
 ## An exploration of UN data (Gross Domestic Product and other variables)
 
+<p align="center">
+    <img src="countries.jpg" alt="logo" width="500" height="300"/>
+</p>
+
+
 - Jupyter notebook: analysis of variables that pertain to countries' gdp, internet use, etc.
   - File: `/country_gdp_and_other_variables.ipynb` 
 
